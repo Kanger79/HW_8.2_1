@@ -6,4 +6,5 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/oery30v3y2n28fnw?svg=true)](https://ci.appveyor.com/project/Kanger79/hw-8-2-1)
 
+
 ### Задание №2: JSON Schema
